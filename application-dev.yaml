@@ -1,5 +1,5 @@
 server:
-   port:9111
+   port: 9111
 
 my:
   greeting: "Hello sumit from server dev profile"

@@ -2,3 +2,6 @@ server:
   port: 8086
 db:
   username:sumit
+
+my:
+  greeting: "Hello sumit from server default profile"
